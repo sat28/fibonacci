@@ -2,6 +2,7 @@
 # until 100
 num1, num2 = 0, 1
 # for(i=2; i<=100;i++)
+# this is for C example
 print(num1, num2)
 for i in range(2, 101):
     num3 = num1 + num2
